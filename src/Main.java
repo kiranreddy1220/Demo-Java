@@ -20,8 +20,9 @@ public class Main {
 
 
         }
-        public void forgotchanges(){
-            System.out.println("By mistakely created in main");
-        }
+
+    }
+    public void forgotchanges(){
+        System.out.println("By mistakely created in main");
     }
 }
