@@ -17,6 +17,10 @@ public class Main {
 
             System.out.println(" feature change for PR");
 
+           public void forgotchanges(){
+                System.out.println("By mistakely created in main");
+            }
+
 
         }
     }
